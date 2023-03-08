@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hello there 👋 this is SimBus Community</h1>
+  <p>This is a community where we want to gather all passionated developers to develop different tools from future <a href="https://store.steampowered.com/app/1472730/SimBus/" target="_blank">SimBus</a> game, to make the game more interactive via our <a href="https://simbus.app" target="_blank">Web App</a>.</p>
+</div>
+
+*This is not official SimBus organisation.*
 
 <!--
 
